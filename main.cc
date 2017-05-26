@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace;
+using namespace std;
 
 
 // Include maps for numbers here up to 99,999,999 (man)
